@@ -1,0 +1,29 @@
+{
+  margin-top: 100px;
+  margin-left: 70px;
+  margin-right: 40px;
+  padding: 0;
+}
+
+p {
+	background-image: url(brutalcar.com-361.jpg);
+	background-repeat: no-repeat;
+	font-family: Moderno;
+	font-size: 20px;
+
+}
+
+p:hover{
+	color: white;
+	padding-top: 25px;
+}
+
+p:after{
+	content: url(Camaro-Imagens-Baixar-Papel-De-Parede.jpg);
+}
+
+<div> height: 500px;
+width: 200px;
+border: 1px solid black;
+background: orange; <div>
+
